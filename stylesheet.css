@@ -2,6 +2,12 @@ body {
   font-family: "Avenir Next";
 }
 
+h2 {
+  font-weight:bold;
+  text-align: center;
+  padding-top: 50px;
+  }
+
 .full-img{
     background-image: url(/daria-nepriakhina-zNU3ErDAbAw-unsplash.jpg); /* 画像のURLを指定       */
     background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
