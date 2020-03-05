@@ -2,6 +2,9 @@ body {
   font-family: "Avenir Next";
 }
 
-.top-main {
-  background-image: url("/the-creative-exchange-d2zvqp3fpro-unsplash.jpg");
+.full-img{
+    background-image:url(/the-creative-exchange-d2zvqp3fpro-unsplash.jpg); /* 画像のURLを指定       */
+    background-size:contain;                 /* 画像のサイズを指定    */
+    width:100%;                              /* 横幅のサイズを指定    */
+    height:400px;                            /* 縦幅のサイズを指定    */
 }
