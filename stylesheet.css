@@ -6,7 +6,7 @@ body {
     background-image: url(/daria-nepriakhina-zNU3ErDAbAw-unsplash.jpg); /* 画像のURLを指定       */
     background-repeat:  no-repeat;                         /* 画像の繰り返しを指定  */              
     background-size: cover;                               /* 画像のサイズを指定    */
-  　background-position: center top;
+    background-position: center top;
     width: 100%;
     min-height: 600px;
 }
