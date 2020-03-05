@@ -2,4 +2,9 @@
   color: #02ccba;
 }
 
-.top-main 
+.top-main {
+  background-image: url("the-creative-exchange-d2zvqp3fpro-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-position: center 50%;
+  background-size: cover;
+    }
