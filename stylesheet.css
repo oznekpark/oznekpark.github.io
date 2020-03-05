@@ -4,9 +4,8 @@ body {
 
 h2 {
   font-weight:bold;
-  width:100%;
-  margin: 0 auto;
-  padding-top: 50px;
+  padding: 30px;
+  text-align: center;
   }
 
 .full-img{
