@@ -4,9 +4,9 @@ body {
 
 h2 {
   font-weight:bold;
+  display: inline;
   text-align: center;
   padding-top: 50px;
-  display: inline;
   }
 
 .full-img{
